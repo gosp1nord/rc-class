@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { ShopItemClass } from './ItemClass';
+import { ShopItemClass } from './components/ItemClass';
 
 const item = {
   brand: 'Tiger of Sweden',
